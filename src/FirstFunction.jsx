@@ -8,6 +8,10 @@ const MyFirstFunction = () => {
             <button onClick={MyFirstFunction}>
                 Click me
             </button>
+            <h1>hello</h1>
+            <button onClick={MyFirstFunction}>
+                Click me
+            </button>
         </>
     )
 
